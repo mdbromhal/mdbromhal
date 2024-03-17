@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdbromhal
 - 👀 I’m interested in robotics, AI, and cybersecurity
 - 🌱 I’m currently learning everything...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Pirates still exist...
 
 <!---
 mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
