@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything...
 - ⚡ Fun fact: Pirates still exist...
 
-NOTE: (Current projects will be private, past projects are public)
+NOTE: Current projects will be private, past projects are public
 
 <!---
 mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
