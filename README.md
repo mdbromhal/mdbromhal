@@ -10,6 +10,7 @@ mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Current Projects 
+- Controlling a Ur5e robot with computer vision in ROS
 - Yelena: A Low-Cost AI-Based Autonomous Crawler (2023-current)
 - I'm Something of a Painter Myself: Using GANs to Mimic Monet's Style, Kaggle Project (2024)
 - Advanced Energy Storage Technology Research (2021-current)
@@ -20,4 +21,5 @@ You can click the Preview link to take a look at your changes.
 - Pointing Underwater Isn't That Simple: Improving Diver & Robot Interactions in a 3D Underwater Environment (Summer 2023)
 - Applications of Machine Learning and AI in Maritime Science and Oceanography, coauthor (Summer 2023)
 - Manatee Project: An Application to Track (imaginary) Manatees (CSC 331 Java final project) (2023)
+- Managing a Linux server (CIT 225) (2023)
   
