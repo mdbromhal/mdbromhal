@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
   
 
 # Past Projects
-- I'm Something of a Painter Myself: Using GANs to Mimic Monet's Style, Kaggle Project (2024)
-- Anti-Blackbeard AI: An Analysis of the AI Defending Cargo Ships Against Modern Maritime Pirates
-- Pointing Underwater Isn't That Simple: Improving Diver & Robot Interactions in a 3D Underwater Environment (Summer 2023)
+- [I'm Something of a Painter Myself: Using GANs to Mimic Monet's Style, Kaggle Project (2024)](https://github.com/mdbromhal/Monet_GAN.git)
+- [Anti-Blackbeard AI: An Analysis of the AI Defending Cargo Ships Against Modern Maritime Pirates (2024)](https://github.com/mdbromhal/Anti-Blackbeard_AI.git)
+- [Pointing Underwater Isn't That Simple: Improving Diver & Robot Interactions in a 3D Underwater Environment (Summer 2023)](https://github.com/mdbromhal/Pointing_Underwater.git)
+  - **Code is private** because part of [UMN's IRV Lab](https://irvlab.cs.umn.edu/) research)
 - Applications of Machine Learning and AI in Maritime Science and Oceanography, coauthor (Summer 2023)
-- Manatee Project: An Application to Track (imaginary) Manatees (CSC 331 Java final project) (2023)
+- [Manatee Project: An Application to Track (imaginary) Manatees (CSC 331 Java final project) (2023)](https://github.com/mdbromhal/ManateeProject.git)
 - Managing a Linux server (CIT 225) (2023)
   
