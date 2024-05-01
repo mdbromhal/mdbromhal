@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   
 
 # Past Projects
+- [GPT-4 Video Processor: Summarizing Videos with OpenAI's GPT4 (Spring 2024)](https://github.com/mdbromhal/GPT4_Summarize_Video.git)
 - [GPT SQL Queries: Using OpenAI to Produce SQL Queries to Retreive Data with a Chatbot Assistant (Spring 2024)](https://github.com/mdbromhal/GPT_SQL_Query.git)
 - [Developing Prompts & Receiving Responses: Using OpenAI to Make a ChatBot Assistant (Spring 2024)](https://github.com/mdbromhal/GPT_Assistant.git)
 - [Reinfocement Learning with Mini Games: Playing Cartpole & Breakout with OpenAI's Gym (Spring 2024)](https://github.com/mdbromhal/Reinforcement_Learning-Mini_Games.git)
