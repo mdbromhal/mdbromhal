@@ -16,8 +16,10 @@ You can click the Preview link to take a look at your changes.
   
 
 # Past Projects
+- [GPT SQL Queries: Using OpenAI to Produce SQL Queries to Retreive Data with a Chatbot Assistant (Spring 2024)](https://github.com/mdbromhal/GPT_SQL_Query.git)
+- [Developing Prompts & Receiving Responses: Using OpenAI to Make a ChatBot Assistant (Spring 2024)](https://github.com/mdbromhal/GPT_Assistant.git)
 - [Reinfocement Learning with Mini Games: Playing Cartpole & Breakout with OpenAI's Gym (Spring 2024)](https://github.com/mdbromhal/Reinforcement_Learning-Mini_Games.git)
-- [Getting Started with OpenAI: Hello World (2024)](https://github.com/mdbromhal/OpenAI_HelloWorld.git)
+- [Getting Started with OpenAI: Hello World (Spring 2024)](https://github.com/mdbromhal/OpenAI_HelloWorld.git)
 - [I'm Something of a Painter Myself: Using GANs to Mimic Monet's Style, Kaggle Project (Spring 2024)](https://github.com/mdbromhal/Monet_GAN.git)
 - [Autoencoders with Fashion & Numbers: Generating Fashion & Numbers from MNIST datasets (Spring 2024)](https://github.com/mdbromhal/Autoencoders_FashionNumbers.git)
 - [Using Sentiment Analysis to Determine Airline Sentiment on Twitter (Spring 2024)](https://github.com/mdbromhal/TwitterSentiment)
