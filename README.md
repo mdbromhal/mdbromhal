@@ -16,13 +16,14 @@ You can click the Preview link to take a look at your changes.
   
 
 # Past Projects
+- [Reinfocement Learning with Mini Games: Playing Cartpole & Breakout with OpenAI's Gym (Spring 2024)](https://github.com/mdbromhal/Reinforcement_Learning-Mini_Games.git)
+- [Getting Started with OpenAI: Hello World (2024)](https://github.com/mdbromhal/OpenAI_HelloWorld.git)
 - [I'm Something of a Painter Myself: Using GANs to Mimic Monet's Style, Kaggle Project (Spring 2024)](https://github.com/mdbromhal/Monet_GAN.git)
 - [Autoencoders with Fashion & Numbers: Generating Fashion & Numbers from MNIST datasets (Spring 2024)](https://github.com/mdbromhal/Autoencoders_FashionNumbers.git)
 - [Using Sentiment Analysis to Determine Airline Sentiment on Twitter (Spring 2024)](https://github.com/mdbromhal/TwitterSentiment)
 - [Using Text Generation to Create Hamlet-Like Text (Spring 2024)](https://github.com/mdbromhal/TextGeneration_Hamlet.git)
 - [Neural Machine Translation: English to German (Spring 2024)](https://github.com/mdbromhal/NeuralMachineTranslation_German.git)
 - [Using RNN's to Predict Temperature in Delhi, India: Timeseries Data (Spring 2024)](https://github.com/mdbromhal/TimeSeriesRNN_DelhiTemp.git)
-- [Getting Started with OpenAI: Hello World (2024)](https://github.com/mdbromhal/OpenAI_HelloWorld.git)
 - [Anti-Blackbeard AI: An Analysis of the AI Defending Cargo Ships Against Modern Maritime Pirates (Spring 2024)](https://github.com/mdbromhal/Anti-Blackbeard_AI.git)
 - [Pointing Underwater Isn't That Simple: Improving Diver & Robot Interactions in a 3D Underwater Environment (Summer 2023)](https://github.com/mdbromhal/Pointing_Underwater.git)
   - **Code is private** because part of [UMN's IRV Lab](https://irvlab.cs.umn.edu/) research)
