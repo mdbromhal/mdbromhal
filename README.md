@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning everything...
 - ⚡ Fun fact: Pirates still exist...
 
-NOTE: Current projects will be private, past projects are public
+NOTE: Current projects will be private, past projects are public (generally)
 
 <!---
 mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Current Projects 
-
 - Yelena: A Low-Cost AI-Based Autonomous Crawler (2023-current)
+- [Learning C Programming Language](https://github.com/mdbromhal/Learning_C.git)
 
   
 
