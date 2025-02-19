@@ -10,6 +10,7 @@ mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Current Projects 
+- Cataloguing a Library’s Book Damage with Computer Vision (2025-current)
 - Yelena: A Low-Cost AI-Based Autonomous Crawler (2023-current)
 - [Learning C Programming Language](https://github.com/mdbromhal/Learning_C.git)
 
@@ -27,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Class Projects
+- [AIPlanner: Your Productivity Assistant (Fall 2024)](https://github.com/mdbromhal/AIPlanner_Project.git)
 - [Controlling a Ur5e robot with Computer Vision in ROS (Spring 2024)](https://github.com/mdbromhal/report3.git)
 - [Reinfocement Learning with Mini Games: Playing Cartpole & Breakout with OpenAI's Gym (Spring 2024)](https://github.com/mdbromhal/Reinforcement_Learning-Mini_Games.git)
 - [Autoencoders with Fashion & Numbers: Generating Fashion & Numbers from MNIST datasets (Spring 2024)](https://github.com/mdbromhal/Autoencoders_FashionNumbers.git)
