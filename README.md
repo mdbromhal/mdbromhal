@@ -3,12 +3,8 @@
 - 🌱 I’m currently learning everything...
 - ⚡ Fun fact: Pirates still exist...
 
-NOTE: Current projects will be private, past projects are public (generally)
+NOTE: Some projects associated with research labs only show the related poster / presented material.
 
-<!---
-mdbromhal/mdbromhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Current Projects 
 - Cataloguing a Library’s Book Damage with Computer Vision (2025-current)
 - Yelena: A Low-Cost AI-Based Autonomous Crawler (2023-current)
