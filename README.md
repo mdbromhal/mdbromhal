@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdbromhal
-- 👀 I’m interested in robotics, AI, and cybersecurity
-- 🌱 I’m currently learning everything...
+- 👀 I’m interested in connecting software engineering principles with perception, robotics, and AI
+- 🌱 I’m currently learning more about security
 - ⚡ Fun fact: Pirates still exist...
 
 NOTE: Some projects associated with research labs only show the related poster / presented material.
