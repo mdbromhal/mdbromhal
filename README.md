@@ -6,7 +6,7 @@
 NOTE: Some projects associated with research labs only show the related poster / presented material.
 
 # Current Projects 
-- [Mapping Telecom Ownership](https://github.com/mdbromhal/Mapping-Telecom-Ownership-Using-Tor-Anonymity-Analysis-Techniques.git) (2026-Current)
+- [Mapping Telecom Ownership](https://github.com/mdbromhal/Mapping-Telecom-Ownership-Using-Tor-Anonymity-Analysis-Techniques.git) Using Tor Anonymity Analysis Techniques (2026-Current)
 - [Guitar Tutor](https://github.com/mdbromhal/guitar_tutor.git): A web app for guitarists to explore keys, chords, and fingerings using the circle of fifths (2026-Current)
 - [Tovia AI Assistant](https://github.com/mdbromhal/tovia_ai_assistant.git): My attempt at making my own Jarvis (2025-Current)
 - [Runtime Detection & Mitigation of Plaintext Leaks in ROS2](https://github.com/mdbromhal/Runtime-Detection-and-Mitigation-of-Plaintext-Leaks-in-ROS2.git) (2026-Current)
